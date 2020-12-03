@@ -1,0 +1,47 @@
+Info 0    [18:8:51.80] Starting TS Server
+Info 1    [18:8:51.80] Version: 3.7.5
+Info 2    [18:8:51.80] Arguments: /usr/bin/node /home/jorge/.emacs.d/.cache/lsp/npm/typescript/bin/tsserver --logFile /home/jorge/code/stackoverflow-alias-bug/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/3c94c2c0e8d2a87c99fc144a72080c33/tscancellation*
+Info 3    [18:8:51.80] Platform: linux NodeVersion: 15 CaseSensitive: true
+Info 4    [18:8:51.88] Search path: /home/jorge/code/stackoverflow-alias-bug/src
+Info 5    [18:8:51.89] For info: /home/jorge/code/stackoverflow-alias-bug/src/App.tsx :: Config file name: /home/jorge/code/stackoverflow-alias-bug/tsconfig.json
+Info 6    [18:8:51.89] Opened configuration file /home/jorge/code/stackoverflow-alias-bug/tsconfig.json
+Info 7    [18:8:51.101] Config: /home/jorge/code/stackoverflow-alias-bug/tsconfig.json : {
+ "rootNames": [
+  "/home/jorge/code/stackoverflow-alias-bug/src/App.test.tsx",
+  "/home/jorge/code/stackoverflow-alias-bug/src/App.tsx",
+  "/home/jorge/code/stackoverflow-alias-bug/src/index.tsx",
+  "/home/jorge/code/stackoverflow-alias-bug/src/react-app-env.d.ts",
+  "/home/jorge/code/stackoverflow-alias-bug/src/reportWebVitals.ts",
+  "/home/jorge/code/stackoverflow-alias-bug/src/setupTests.ts",
+  "/home/jorge/code/stackoverflow-alias-bug/src/things/thing.tsx"
+ ],
+ "options": {
+  "pretty": false,
+  "baseUrl": "/home/jorge/code/stackoverflow-alias-bug/src",
+  "target": 1,
+  "lib": [
+   "lib.dom.d.ts",
+   "lib.dom.iterable.d.ts",
+   "lib.esnext.d.ts"
+  ],
+  "allowJs": true,
+  "skipLibCheck": true,
+  "esModuleInterop": true,
+  "allowSyntheticDefaultImports": true,
+  "strict": true,
+  "forceConsistentCasingInFileNames": true,
+  "noFallthroughCasesInSwitch": true,
+  "module": 99,
+  "moduleResolution": 2,
+  "resolveJsonModule": true,
+  "isolatedModules": true,
+  "noEmit": true,
+  "configFilePath": "/home/jorge/code/stackoverflow-alias-bug/tsconfig.json"
+ }
+}
+Info 8    [18:8:51.142] Starting updateGraphWorker: Project: /home/jorge/code/stackoverflow-alias-bug/tsconfig.json
+Info 9    [18:9:3.237] Finishing updateGraphWorker: Project: /home/jorge/code/stackoverflow-alias-bug/tsconfig.json Version: 1 structureChanged: true Elapsed: 12095ms
+Info 10   [18:9:3.237] Project '/home/jorge/code/stackoverflow-alias-bug/tsconfig.json' (Configured) 
+Info 11   [18:9:3.237] 	Files (178)
+
+Info 12   [18:9:3.237] -----------------------------------------------

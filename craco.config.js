@@ -4,12 +4,9 @@ process.env.BROWSER = "none"
 
 module.exports = {
   webpack: {
-    resolve: {
-      alias: {
+    alias: {
         things: path.resolve(__dirname, "./src/things/"),
       },
-      extensions: [".js", ".jsx", ".ts", ".tsx"],
-    },
   },
   jest: {
     transformIgnorePatterns: [
